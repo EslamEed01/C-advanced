@@ -1,0 +1,14 @@
+E:\c# imp\vs imp\C#_Advanced\Events\bin\Debug\net8.0\Events.exe
+E:\c# imp\vs imp\C#_Advanced\Events\bin\Debug\net8.0\Events.deps.json
+E:\c# imp\vs imp\C#_Advanced\Events\bin\Debug\net8.0\Events.runtimeconfig.json
+E:\c# imp\vs imp\C#_Advanced\Events\bin\Debug\net8.0\Events.dll
+E:\c# imp\vs imp\C#_Advanced\Events\bin\Debug\net8.0\Events.pdb
+E:\c# imp\vs imp\C#_Advanced\Events\obj\Debug\net8.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# imp\vs imp\C#_Advanced\Events\obj\Debug\net8.0\Events.AssemblyInfoInputs.cache
+E:\c# imp\vs imp\C#_Advanced\Events\obj\Debug\net8.0\Events.AssemblyInfo.cs
+E:\c# imp\vs imp\C#_Advanced\Events\obj\Debug\net8.0\Events.csproj.CoreCompileInputs.cache
+E:\c# imp\vs imp\C#_Advanced\Events\obj\Debug\net8.0\Events.dll
+E:\c# imp\vs imp\C#_Advanced\Events\obj\Debug\net8.0\refint\Events.dll
+E:\c# imp\vs imp\C#_Advanced\Events\obj\Debug\net8.0\Events.pdb
+E:\c# imp\vs imp\C#_Advanced\Events\obj\Debug\net8.0\Events.genruntimeconfig.cache
+E:\c# imp\vs imp\C#_Advanced\Events\obj\Debug\net8.0\ref\Events.dll

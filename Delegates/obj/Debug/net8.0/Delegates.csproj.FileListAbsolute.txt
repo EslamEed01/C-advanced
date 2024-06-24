@@ -1,0 +1,14 @@
+E:\c# imp\vs imp\C#_Advanced\Delegates\bin\Debug\net8.0\Delegates.exe
+E:\c# imp\vs imp\C#_Advanced\Delegates\bin\Debug\net8.0\Delegates.deps.json
+E:\c# imp\vs imp\C#_Advanced\Delegates\bin\Debug\net8.0\Delegates.runtimeconfig.json
+E:\c# imp\vs imp\C#_Advanced\Delegates\bin\Debug\net8.0\Delegates.dll
+E:\c# imp\vs imp\C#_Advanced\Delegates\bin\Debug\net8.0\Delegates.pdb
+E:\c# imp\vs imp\C#_Advanced\Delegates\obj\Debug\net8.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# imp\vs imp\C#_Advanced\Delegates\obj\Debug\net8.0\Delegates.AssemblyInfoInputs.cache
+E:\c# imp\vs imp\C#_Advanced\Delegates\obj\Debug\net8.0\Delegates.AssemblyInfo.cs
+E:\c# imp\vs imp\C#_Advanced\Delegates\obj\Debug\net8.0\Delegates.csproj.CoreCompileInputs.cache
+E:\c# imp\vs imp\C#_Advanced\Delegates\obj\Debug\net8.0\Delegates.dll
+E:\c# imp\vs imp\C#_Advanced\Delegates\obj\Debug\net8.0\refint\Delegates.dll
+E:\c# imp\vs imp\C#_Advanced\Delegates\obj\Debug\net8.0\Delegates.pdb
+E:\c# imp\vs imp\C#_Advanced\Delegates\obj\Debug\net8.0\Delegates.genruntimeconfig.cache
+E:\c# imp\vs imp\C#_Advanced\Delegates\obj\Debug\net8.0\ref\Delegates.dll

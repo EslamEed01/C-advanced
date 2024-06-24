@@ -1,0 +1,14 @@
+E:\c# imp\vs imp\C#_Advanced\IEnumerable_IEnumerator\bin\Debug\net8.0\IEnumerable_IEnumerator.exe
+E:\c# imp\vs imp\C#_Advanced\IEnumerable_IEnumerator\bin\Debug\net8.0\IEnumerable_IEnumerator.deps.json
+E:\c# imp\vs imp\C#_Advanced\IEnumerable_IEnumerator\bin\Debug\net8.0\IEnumerable_IEnumerator.runtimeconfig.json
+E:\c# imp\vs imp\C#_Advanced\IEnumerable_IEnumerator\bin\Debug\net8.0\IEnumerable_IEnumerator.dll
+E:\c# imp\vs imp\C#_Advanced\IEnumerable_IEnumerator\bin\Debug\net8.0\IEnumerable_IEnumerator.pdb
+E:\c# imp\vs imp\C#_Advanced\IEnumerable_IEnumerator\obj\Debug\net8.0\IEnumerable_IEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# imp\vs imp\C#_Advanced\IEnumerable_IEnumerator\obj\Debug\net8.0\IEnumerable_IEnumerator.AssemblyInfoInputs.cache
+E:\c# imp\vs imp\C#_Advanced\IEnumerable_IEnumerator\obj\Debug\net8.0\IEnumerable_IEnumerator.AssemblyInfo.cs
+E:\c# imp\vs imp\C#_Advanced\IEnumerable_IEnumerator\obj\Debug\net8.0\IEnumerable_IEnumerator.csproj.CoreCompileInputs.cache
+E:\c# imp\vs imp\C#_Advanced\IEnumerable_IEnumerator\obj\Debug\net8.0\IEnumerable_IEnumerator.dll
+E:\c# imp\vs imp\C#_Advanced\IEnumerable_IEnumerator\obj\Debug\net8.0\refint\IEnumerable_IEnumerator.dll
+E:\c# imp\vs imp\C#_Advanced\IEnumerable_IEnumerator\obj\Debug\net8.0\IEnumerable_IEnumerator.pdb
+E:\c# imp\vs imp\C#_Advanced\IEnumerable_IEnumerator\obj\Debug\net8.0\IEnumerable_IEnumerator.genruntimeconfig.cache
+E:\c# imp\vs imp\C#_Advanced\IEnumerable_IEnumerator\obj\Debug\net8.0\ref\IEnumerable_IEnumerator.dll
